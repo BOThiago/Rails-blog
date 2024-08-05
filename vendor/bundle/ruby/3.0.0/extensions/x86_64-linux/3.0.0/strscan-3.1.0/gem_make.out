@@ -1,0 +1,17 @@
+current directory: /home/bndtw/projects/ruby/rails-blog/vendor/bundle/ruby/3.0.0/gems/strscan-3.1.0/ext/strscan
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240804-517373-piuh9v.rb extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /home/bndtw/projects/ruby/rails-blog/vendor/bundle/ruby/3.0.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= clean
+
+current directory: /home/bndtw/projects/ruby/rails-blog/vendor/bundle/ruby/3.0.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\=
+compiling strscan.c
+linking shared-object strscan.so
+
+current directory: /home/bndtw/projects/ruby/rails-blog/vendor/bundle/ruby/3.0.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 strscan.so ./.gem.20240804-517373-p8j8s7
